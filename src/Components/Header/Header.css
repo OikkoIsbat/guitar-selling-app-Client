@@ -1,0 +1,9 @@
+.navBar a{
+text-decoration:none;
+padding:8px;
+
+}
+
+.navBar a:hover{
+    background-color:darkgray;
+}
